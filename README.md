@@ -1,4 +1,10 @@
-# LicheeRV-Nano-Build
+# LicheeRV-Nano-Build-Dual-FPV
+
+This is a fork of the LicheeRV Nano build repository modified to be used as an FPV digital transmitter. It adds support for the following:
+OV5647 camera
+Tiny 1C thermal camera
+RTL8812EU-CG Wi-Fi adapter
+wfb-ng
 
 # download source
 
