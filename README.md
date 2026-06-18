@@ -1,4 +1,4 @@
-# LicheeRV-Nano-Build-Dual-FPV
+# LicheeRV-Nano-Dual-FPV
 
 This is a fork of the LicheeRV Nano build repository modified to be used as an FPV digital transmitter. It adds support for the following:
 - OV5647 camera
